@@ -173,7 +173,7 @@ include('datas.php');
                     <div class="col-xl-8 col-lg-12 col-md-12 col-sm-12 col-12 layout-spacing">
                         <div class="widget widget-chart-one">
                             <div class="widget-heading">
-                                <h5 class="" style="margin:2%;">Performance Management</h5>
+                                <h5 class="" style="margin:2%;">Performance appraisal submissions (2020-2021)</h5>
                                 <!-- <div class="task-action">
                                     <div class="dropdown">
                                         <a class="dropdown-toggle" href="#" role="button" id="pendingTask" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -196,7 +196,7 @@ include('datas.php');
                     <div class="col-xl-4 col-lg-12 col-md-12 col-sm-12 col-12 layout-spacing">
                         <div class="widget widget-table-one">
                             <div class="widget-heading">
-                                <h5 class="" style="margin:2%;">Totals</h5>
+                                <h5 class="" style="margin-top:2%;margin-left:2%">Submissions rate</h5>
                                 <!-- <div class="task-action">
                                     <div class="dropdown">
                                         <a class="dropdown-toggle" href="#" role="button" id="pendingTask" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -220,7 +220,7 @@ include('datas.php');
                                             <ul>
                                                 <div class="t-name">
                                                     <li style="color:#1b55e2">
-                                                        <h4>Employees Reporting to & Eligible for Appraisal</h4>
+                                                        <h4>Number of employees eligible for Appraisal</h4>
                                                     </li>
                                                     <span class="meta-date">254</span>
                                                 </div>
@@ -249,9 +249,9 @@ include('datas.php');
                             </div>
 
                         </div>
-                        <div class="widget-four" style="height: 50%;margin-top: 4.5%;">
+                        <div class="widget-four" style="height: 54%;margin-top: 1%;">
                             <div class="widget-heading">
-                                <h5 class="">Training</h5>
+                                <h5 class="">Training - September 2021</h5>
                             </div>
                             <div class="widget-content">
                                 <div class="vistorsBrowser">
@@ -265,8 +265,8 @@ include('datas.php');
                                         </div>
                                         <div class="w-browser-details">
                                             <div class="w-browser-info">
-                                                <h6>Training performed</h6>
-                                                <p class="browser-count">859</p>
+                                                <h6>Planned</h6>
+                                                <p class="browser-count">10</p>
                                             </div>
                                             <!-- <div class="w-browser-stats">
                                             <div class="progress">
@@ -287,8 +287,32 @@ include('datas.php');
                                         <div class="w-browser-details">
 
                                             <div class="w-browser-info">
-                                                <h6>Employees trained</h6>
-                                                <p class="browser-count">1,002</p>
+                                                <h6>Actual</h6>
+                                                <p class="browser-count">6</p>
+                                            </div>
+
+                                            <!-- <div class="w-browser-stats">
+                                            <div class="progress">
+                                                <div class="progress-bar bg-gradient-danger" role="progressbar" style="width: 35%" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div> -->
+
+                                        </div>
+
+                                    </div>
+                                    <div class="browser-list">
+                                        <div class="w-icon">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-compass">
+                                                <circle cx="12" cy="12" r="10"></circle>
+                                                <polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76">
+                                                </polygon>
+                                            </svg>
+                                        </div>
+                                        <div class="w-browser-details">
+
+                                            <div class="w-browser-info">
+                                                <h6>Outstanding</h6>
+                                                <p class="browser-count">0</p>
                                             </div>
 
                                             <!-- <div class="w-browser-stats">

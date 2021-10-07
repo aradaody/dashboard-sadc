@@ -856,7 +856,7 @@
     background: #fff;
     text-align: left;
     border-radius: 6px;
-    width: 40%;
+    width: 30%;
     -webkit-box-shadow: 0px 8px 20px rgba(0,0,0,0.06);
     box-shadow: 0px 8px 20px rgba(0,0,0,0.06);
 }
@@ -1311,7 +1311,7 @@
     }
     .widget-account-invoice-three .widget-amount .w-a-info {
         padding: 10px 9px;
-        width: 44%;
+        width: 30%;
     }
     .widget-account-invoice-three .widget-amount .w-a-info.funds-received {
         margin-right: 1px;

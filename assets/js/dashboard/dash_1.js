@@ -380,7 +380,7 @@ try {
             // width: 380,
             height: 365
         },
-        colors: ['#5c1ac3', '#e2a03f', '#e7515a'],
+        colors: ['#abdbe3','#14a085','#5c1ac3', '#e2a03f', '#e7515a'],
         dataLabels: {
           enabled: false
         },
@@ -440,8 +440,8 @@ try {
           show: true,
           width: 25,
         },
-        series: [166, 68, 13],
-        labels: ['Regional', 'Local', 'Seconded/Flexi'],
+        series: [28,6,166, 68, 13],
+        labels: ['Projects','Short-term','Regional', 'Local', 'Seconded/Flexi'],
         responsive: [{
             breakpoint: 1599,
             options: {
@@ -498,14 +498,14 @@ try {
         colors: ['transparent']
     },
     series: [{
-        name: 'No. of men',
-        data: [3,5,33,35,9,1,0]
+        name: 'No. of male',
+        data: [3,5,34,71,11,0,0,0,7,11]
     }, {
-        name: 'No. of women',
-        data: [0,5,15,26,46,23,0]
+        name: 'No. of female',
+        data: [0,5,20,21,25,3,13,8,0,7]
     }],
     xaxis: {
-        categories: ['Treaty Position', 'Directors', 'Senior Officers', 'Officers', 'Assistant', 'Secretaries/Senior Secretaries','Others'],
+        categories: ['Executives', 'Directors', 'Senior Officers', 'Officers', 'Assistant','Personal Assistants', 'Senior Secretaries','Secretaries','Drivers','Others'],
     },
     fill: {
         opacity: 1
@@ -522,7 +522,7 @@ try {
 
   var sBar = {
     chart: {
-        height: 250,
+        height: 210,
         type: 'bar',
         toolbar: {
           show: false,
@@ -538,10 +538,10 @@ try {
     },
     series: [{
       name: 'Nb',
-        data: [28, 6, 3, 0, 4]
+        data: [ 3, 0, 4, 0, 0]
     }],
     xaxis: {
-        categories: ['Projects Positions', 'Short-term contract', 'End of contract', 'Resignation (2022)', 'Retirement (2022)'],
+        categories: ['End of contract', 'Resignation', 'Retirement', 'Dismissal','Death'],
     }
 }
 
