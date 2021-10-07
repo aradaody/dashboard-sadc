@@ -538,7 +538,7 @@ try {
     },
     series: [{
       name: 'Nb',
-        data: [ 3, 0, 4, 0, 0]
+        data: [ 0, 0, 0, 0, 0]
     }],
     xaxis: {
         categories: ['End of contract', 'Resignation', 'Retirement', 'Dismissal','Death'],
