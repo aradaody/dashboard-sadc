@@ -389,7 +389,7 @@ include('datas.php');
                 </div>
                 <div class="footer-wrapper">
                     <div class="footer-section f-section-1">
-                        <p class="">Copyright ©aradaody 2021, All
+                        <p class="">Copyright ©SADC HRA 2021, All
                             rights reserved.</p>
                     </div>
                     <!-- <div class="footer-section f-section-2">

@@ -230,7 +230,7 @@
                                 </div>
                                 <div class="wallet-balance">
                                     <p>Vacancy rate</p>
-                                    <h5 class="">40.08<span class="w-currency">%</span></h5>
+                                    <h5 class="">14.85<span class="w-currency">%</span></h5>
                                 </div>
                             </div>
 
@@ -316,7 +316,7 @@
             </div>
             <div class="footer-wrapper">
                 <div class="footer-section f-section-1">
-                    <p class="">Copyright ©aradaody 2021, All
+                    <p class="">Copyright ©SADC HRA 2021, All
                         rights reserved.</p>
                 </div>
                 <!-- <div class="footer-section f-section-2">
