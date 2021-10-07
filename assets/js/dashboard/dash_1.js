@@ -440,7 +440,7 @@ try {
           show: true,
           width: 25,
         },
-        series: [20, 50, 13],
+        series: [166, 68, 13],
         labels: ['Regional', 'Local', 'Seconded/Flexi'],
         responsive: [{
             breakpoint: 1599,
