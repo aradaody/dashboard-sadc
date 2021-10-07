@@ -348,7 +348,7 @@
                                             <div class="w-summary-stats">
                                                 <div class="progress">
                                                     <div class="progress-bar bg-gradient-secondary" role="progressbar"
-                                                        style="width: 50%" aria-valuenow="50" aria-valuemin="0"
+                                                        style="width: 80%" aria-valuenow="80" aria-valuemin="0"
                                                         aria-valuemax="100"></div>
                                                 </div>
                                             </div>
@@ -379,7 +379,7 @@
                                             <div class="w-summary-stats">
                                                 <div class="progress">
                                                     <div class="progress-bar bg-gradient-success" role="progressbar"
-                                                        style="width: 10%" aria-valuenow="10" aria-valuemin="0"
+                                                        style="width: 30%" aria-valuenow="30" aria-valuemin="0"
                                                         aria-valuemax="100"></div>
                                                 </div>
                                             </div>
@@ -402,13 +402,13 @@
 
                                             <div class="w-summary-info">
                                                 <h6>Positions to be advertised</h6>
-                                                <p class="summary-count">22</p>
+                                                <p class="summary-count">12</p>
                                             </div>
 
                                             <div class="w-summary-stats">
                                                 <div class="progress">
                                                     <div class="progress-bar bg-gradient-warning" role="progressbar"
-                                                        style="width: 60%" aria-valuenow="60" aria-valuemin="0"
+                                                        style="width: 50%" aria-valuenow="50" aria-valuemin="0"
                                                         aria-valuemax="100"></div>
                                                 </div>
                                             </div>
