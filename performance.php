@@ -266,7 +266,7 @@ include('datas.php');
                                         <div class="w-browser-details">
                                             <div class="w-browser-info">
                                                 <h6>Planned</h6>
-                                                <p class="browser-count">10</p>
+                                                <p class="browser-count">19</p>
                                             </div>
                                             <!-- <div class="w-browser-stats">
                                             <div class="progress">
@@ -288,7 +288,7 @@ include('datas.php');
 
                                             <div class="w-browser-info">
                                                 <h6>Actual</h6>
-                                                <p class="browser-count">6</p>
+                                                <p class="browser-count">4</p>
                                             </div>
 
                                             <!-- <div class="w-browser-stats">
@@ -312,7 +312,7 @@ include('datas.php');
 
                                             <div class="w-browser-info">
                                                 <h6>Outstanding</h6>
-                                                <p class="browser-count">0</p>
+                                                <p class="browser-count">15</p>
                                             </div>
 
                                             <!-- <div class="w-browser-stats">
