@@ -230,7 +230,7 @@
                                 </div>
                                 <div class="wallet-balance">
                                     <p>Implementation rate</p>
-                                    <h5 class="">28.26<span class="w-currency">%</span></h5>
+                                    <h5 class="">85.14<span class="w-currency">%</span></h5>
                                 </div>
                             </div>
 
@@ -243,7 +243,7 @@
                                             class="feather feather-chevron-up">
                                             <polyline points="18 15 12 9 6 15"></polyline>
                                         </svg></span>
-                                    <p>230</p>
+                                    <p>235</p>
                                 </div>
 
                                 <div class="w-a-info funds-spent">
@@ -253,7 +253,7 @@
                                             class="feather feather-chevron-down">
                                             <polyline points="6 9 12 15 18 9"></polyline>
                                         </svg></span>
-                                    <p>65</p>
+                                    <p>41</p>
                                 </div>
                             </div>
 
@@ -342,13 +342,13 @@
 
                                             <div class="w-summary-info">
                                                 <h6>Recruitment on-going</h6>
-                                                <p class="summary-count">15</p>
+                                                <p class="summary-count">22</p>
                                             </div>
 
                                             <div class="w-summary-stats">
                                                 <div class="progress">
                                                     <div class="progress-bar bg-gradient-secondary" role="progressbar"
-                                                        style="width: 15%" aria-valuenow="15" aria-valuemin="0"
+                                                        style="width: 50%" aria-valuenow="50" aria-valuemin="0"
                                                         aria-valuemax="100"></div>
                                                 </div>
                                             </div>
@@ -373,13 +373,13 @@
 
                                             <div class="w-summary-info">
                                                 <h6>Positions frozen</h6>
-                                                <p class="summary-count">28</p>
+                                                <p class="summary-count">7</p>
                                             </div>
 
                                             <div class="w-summary-stats">
                                                 <div class="progress">
                                                     <div class="progress-bar bg-gradient-success" role="progressbar"
-                                                        style="width: 80%" aria-valuenow="80" aria-valuemin="0"
+                                                        style="width: 10%" aria-valuenow="10" aria-valuemin="0"
                                                         aria-valuemax="100"></div>
                                                 </div>
                                             </div>

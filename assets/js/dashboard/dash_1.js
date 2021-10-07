@@ -380,7 +380,7 @@ try {
             // width: 380,
             height: 365
         },
-        colors: ['#5c1ac3', '#e2a03f', '#e7515a', '#e2a03f'],
+        colors: ['#5c1ac3', '#e2a03f', '#e7515a'],
         dataLabels: {
           enabled: false
         },
@@ -440,8 +440,8 @@ try {
           show: true,
           width: 25,
         },
-        series: [985, 737, 270],
-        labels: ['Regional', 'Local', 'Flexi/Secondment'],
+        series: [20, 50, 13],
+        labels: ['Regional', 'Local', 'Seconded/Flexi'],
         responsive: [{
             breakpoint: 1599,
             options: {
@@ -499,13 +499,13 @@ try {
     },
     series: [{
         name: 'No. of men',
-        data: [44, 78, 83, 75, 61, 58, 63, 60, 100]
+        data: [3,5,33,35,9,1,0]
     }, {
         name: 'No. of women',
-        data: [25, 40, 66, 68, 87, 105, 91, 114, 94]
+        data: [0,5,15,26,46,23,0]
     }],
     xaxis: {
-        categories: ['Treaty Position', 'Directors', 'Senior Officers', 'Officers', 'Personal Assistant', 'Assistant Officers', 'Senior Secretaries', 'Secretaries', 'Others'],
+        categories: ['Treaty Position', 'Directors', 'Senior Officers', 'Officers', 'Assistant', 'Secretaries/Senior Secretaries','Others'],
     },
     fill: {
         opacity: 1
@@ -538,10 +538,10 @@ try {
     },
     series: [{
       name: 'Nb',
-        data: [1200, 800, 675, 470, 901]
+        data: [28, 6, 3, 0, 4]
     }],
     xaxis: {
-        categories: ['Projects Positions', 'Short-term contract', 'End of contract', 'Resignation', 'Retirement'],
+        categories: ['Projects Positions', 'Short-term contract', 'End of contract', 'Resignation (2022)', 'Retirement (2022)'],
     }
 }
 
